@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2f3db44-8e0a-4bfb-aede-4f4fee0c874f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/allure-results/history/categories-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/history/duration-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/history/history-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/history/history.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/history/retry-trend.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/history/88d1e003-3e67-4c40-b246-55f5a7426e53-container.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
