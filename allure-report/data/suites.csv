@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sat Aug 17 14:40:45 AZT 2024","Sat Aug 17 14:41:51 AZT 2024","65590","tst.tests","test_blazemeter","Test_1","","","test_reg",""
+"passed","Sat Aug 17 17:58:50 AZT 2024","Sat Aug 17 17:59:55 AZT 2024","64919","tst.tests","test_blazemeter","Test_1","","","test_reg",""
