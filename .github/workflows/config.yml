@@ -1,4 +1,4 @@
-name: ui test
+name: UI TEST
 
 on: workflow_dispatch
 
